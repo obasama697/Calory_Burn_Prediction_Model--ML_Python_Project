@@ -99,7 +99,7 @@ text
 
 | **EDA Visualizations** | **Pipeline Architecture** | **Interactive GUI** |
 |------------------------|--------------------------|-------------------|
-| ![EDA]([screenshots/eda.png](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/69e36e9fa70bcff322bc6ccc8c88779bdf221f17/Screenshot%202025-12-06%20044022.png) | ![Pipeline](Shttps://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/934cce7d6318fd652c6c68ec629c75458b9afc2f/Screenshot%202025-12-06%20044501.png) | ![GUI]([](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/e66e3b05b4a5b56c4903f0aacbba5c3f9d00c997/Screenshot%202025-12-06%20044804.png)) |
+| ![Image Alt](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/69e36e9fa70bcff322bc6ccc8c88779bdf221f17/Screenshot%202025-12-06%20044022.png) | ![Image Alt](Shttps://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/934cce7d6318fd652c6c68ec629c75458b9afc2f/Screenshot%202025-12-06%20044501.png) | ![Image Alt](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project/blob/e66e3b05b4a5b56c4903f0aacbba5c3f9d00c997/Screenshot%202025-12-06%20044804.png) |
 
 ## 🚀 Deployment Options
 
