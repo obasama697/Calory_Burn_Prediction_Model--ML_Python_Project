@@ -4,7 +4,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit-learn-1.4+-FF6B35?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.1.2-4267B2?style=flat-square&logo=XGBoost&logoColor=white)](https://xgboost.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-F63366?style=flat-square&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Colab](https://img.shields.io/badge/Google%20Colab-Run%20Online-FF0000?style=flat-square&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/)
 
 **Machine Learning model that predicts calories burned during workouts using personal fitness data.** Complete end-to-end ML pipeline with **XGBoost (Best: 94%+ R²)**, preprocessing, GUI, and model deployment ready! 
@@ -57,7 +56,7 @@
 ## 🎯 Quick Start
 
 ### 1. **Clone & Install**
-git clone https://github.com/yourusername/calories-burn-prediction.git
+[git clone https://github.com/yourusername/calories-burn-prediction.git](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project.git)
 cd calories-burn-prediction
 pip install -r requirements.txt
 
