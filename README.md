@@ -56,7 +56,7 @@
 ## 🎯 Quick Start
 
 ### 1. **Clone & Install**
-[git clone https://github.com/yourusername/calories-burn-prediction.git](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project.git)
+[git clone](https://github.com/obasama697/Calory_Burn_Prediction_Model--ML_Python_Project.git)
 cd calories-burn-prediction
 pip install -r requirements.txt
 
