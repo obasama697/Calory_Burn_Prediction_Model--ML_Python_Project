@@ -99,7 +99,7 @@ text
 
 | **EDA Visualizations** | **Pipeline Architecture** | **Interactive GUI** |
 |------------------------|--------------------------|-------------------|
-| ![EDA](screenshots/eda.png) | ![Pipeline](screenshots/pipeline.png) | ![GUI](screenshots/gui.png) |
+| ![EDA]([screenshots/eda.png](Screenshot 2025-12-06 044022.png) | ![Pipeline](Screenshot 2025-12-06 044501.png) | ![GUI](Screenshot 2025-12-06 044804.png) |
 
 ## 🚀 Deployment Options
 
@@ -145,7 +145,10 @@ matplotlib==3.7.2
 3. Improve GUI or deploy as web app
 4. Submit PR! 🎉
 
+### Stay Updated and connected
 
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rupal--tripathi/)
 
 ---
 
